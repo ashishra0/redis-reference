@@ -6,6 +6,10 @@
 → Sets multiple keys to respective values
 → Replaces existing values with new ones
 
+```
+MSET key1 "hello" key2 "world"
+```
+
 ### MSETNX
 
 → Sets multiple keys to respective values as long as none of the keys exists.
@@ -16,6 +20,10 @@
 
 → Returns values of all specified keys
 → Returns nil if keys don’t hold a value
+
+```
+MGET key1 key2
+```
 
 ### APPEND
 

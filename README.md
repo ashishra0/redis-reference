@@ -5,4 +5,4 @@
 ---
 * What is [redis](redis.md)
 * basic redis [commands](basic_commands.md)
-* Other [commands](advanced_commands.md)
+* Other commands [commands](advanced_commands.md)
